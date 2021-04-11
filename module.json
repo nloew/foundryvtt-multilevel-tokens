@@ -30,7 +30,7 @@
       "path": "lang/ko.json"
     }
   ],
-  "url": "https://github.com/grandseiken/foundryvtt-multilevel-tokens",
-  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
-  "download": "https://github.com/grandseiken/foundryvtt-multilevel-tokens/archive/v1.3.4.zip"
+  "url": "https://github.com/nloew/foundryvtt-multilevel-tokens",
+  "manifest": "https://raw.githubusercontent.com/nloew/foundryvtt-multilevel-tokens/master/module.json",
+  "download": "https://github.com/nloew/foundryvtt-multilevel-tokens/archive/refs/tags/v1.3.4.zip"
 }
